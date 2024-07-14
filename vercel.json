@@ -12,7 +12,7 @@
   "routes": [
     {
       "src": "/(.*)",
-      "dest": "/index.jsp"
+      "dest": "bank_app/src/main/webapp/index.jsp"
     }
   ]
 }
