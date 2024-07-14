@@ -1,0 +1,18 @@
+{
+  "version": 2,
+  "builds": [
+    {
+      "src": "bank_app/src/main/webapp/index.jsp",
+      "use": "@vercel/static-build",
+      "config": {
+        "distDir": "bank_app/src/main/webapp"
+      }
+    }
+  ],
+  "routes": [
+    {
+      "src": "/(.*)",
+      "dest": "/index.jsp"
+    }
+  ]
+}
