@@ -1,5 +1,5 @@
 # Banking Application
-    https://shorturl.at/plkr6
+    #https://shorturl.at/plkr6
 
 Welcome to the Banking Application repository! This Java web application provides a comprehensive banking system with functionalities for both administrators and customers. Built using JSP, servlets, and MySQL, the application ensures secure and seamless banking operations.
 
